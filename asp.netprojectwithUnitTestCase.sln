@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.netprojectwithUnitTestCase", "asp.netprojectwithUnitTestCase\asp.netprojectwithUnitTestCase.csproj", "{230C6817-E950-4641-96B7-C54352CED098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.netprojectwithUnitTestCase.Tests", "asp.netprojectwithUnitTestCase.Tests\asp.netprojectwithUnitTestCase.Tests.csproj", "{B76822A6-2311-4F4F-9503-D5C06663A321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230C6817-E950-4641-96B7-C54352CED098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230C6817-E950-4641-96B7-C54352CED098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230C6817-E950-4641-96B7-C54352CED098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230C6817-E950-4641-96B7-C54352CED098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76822A6-2311-4F4F-9503-D5C06663A321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76822A6-2311-4F4F-9503-D5C06663A321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76822A6-2311-4F4F-9503-D5C06663A321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76822A6-2311-4F4F-9503-D5C06663A321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4131E7F0-EC06-40AA-B70D-2951BAAD055C}
+	EndGlobalSection
+EndGlobal
