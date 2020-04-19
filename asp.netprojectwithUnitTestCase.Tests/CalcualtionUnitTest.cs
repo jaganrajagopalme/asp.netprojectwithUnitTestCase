@@ -6,7 +6,7 @@ using asp.netprojectwithUnitTestCase;
 namespace asp.netprojectwithUnitTestCase.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class CalcualtionUnitTest
     {
         [TestMethod]
         public void AddTestCase()
@@ -28,7 +28,7 @@ namespace asp.netprojectwithUnitTestCase.Tests
             asp.netprojectwithUnitTestCase.MathOperator mathOps = new asp.netprojectwithUnitTestCase.MathOperator();
             int actualvalue = mathOps.Sub(3, 2);
             int expectedvalue = 1;
-            Assert.AreEqual(expectedvalue, actualvalue, 0, "Addition Method was failed");
+            Assert.AreEqual(expectedvalue, actualvalue, 0, "Subtraction Method was failed");
         }
     }
 }
